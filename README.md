@@ -14,7 +14,7 @@ Built with Node.js + Express + HTML5, this app helps you:
 
 1. Clone the Project
 ```
-git clone https://github.com/your-username/thread-cpu-analyzer.git
+git clone https://github.com/niranRameshPeiris/thread-cpu-analyzer.git
 cd thread-cpu-analyzer
 ```
 2. Install Dependencies
